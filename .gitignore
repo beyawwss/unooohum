@@ -1,0 +1,4 @@
+node_modules/
+.env
+data/uno.json
+npm-debug.log
